@@ -1,0 +1,7 @@
+org/example/Main.class
+org/example/DnsQuery.class
+org/example/RecordType.class
+org/example/ISendResponse.class
+org/example/DnsHeader.class
+org/example/DnsServer.class
+org/example/FileReader.class
